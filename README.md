@@ -1,2 +1,2 @@
 # jenkinsprojects
-Jenkinsstudy and labs
+Jenkins study and labs
